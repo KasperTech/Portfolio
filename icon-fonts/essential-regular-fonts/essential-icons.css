@@ -3,7 +3,7 @@
 @font-face {
   font-family: "essential-regular";
   src:url("essential-regular.eot");
-  src:url("essential-regulard41d.eot?#iefix") format("embedded-opentype"),
+  src:url("essential-regular.eot?#iefix") format("embedded-opentype"),
     url("essential-regular.woff") format("woff"),
     url("essential-regular.ttf") format("truetype"),
     url("essential-regular.svg#essential-regular") format("svg");
