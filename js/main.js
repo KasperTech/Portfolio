@@ -129,13 +129,14 @@ $('.responsive').on('click', function (e) {
     
     
     // HOME TYPED JS
-      $(".element").typed({
-        strings: ["Stephens", "Web Designer"],
-        typeSpeed: 10,
-        loop:true,
-        backDelay: 2000
-      });
- 
+    //   $(".element").typed({
+    //     strings: ["Stephens", "Web Designer"],
+    //     typeSpeed: 10,
+    //     loop:true,
+    //     backDelay: 2000
+    //   });
+    
+    
     
     
     // MAGNIFIC POPUP FOR PORTFOLIO PAGE
